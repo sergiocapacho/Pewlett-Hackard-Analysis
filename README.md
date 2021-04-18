@@ -5,6 +5,7 @@ The purpose of this project is to get the number of employees which are retired 
 
 ## Results:
         There is a bulleted list with four major points from the two analysis deliverables. 
+images/Screen Shot 2021-04-18 at 5.53.08 PM.png
 
 ## Summary:
         The summary addresses the two questions and contains two additional queries or tables that may provide more insight. 
